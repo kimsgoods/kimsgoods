@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimsgoods
+- 👋 Hi, I’m @kimsgoods or Keeme
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development through The Odin Project and Free Code Camp
 <!---- 💞️ I’m looking to collaborate on ...
